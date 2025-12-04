@@ -89,7 +89,7 @@ export default function Layout({ children, currentPageName }) {
               />
               <div>
                 <h1 className="text-xl font-bold bg-gradient-to-r from-teal-200 via-emerald-100 to-cyan-200 bg-clip-text text-transparent">
-                  ENNOBLE SOCIAL
+                  ENNOBLE SOCIAL <br></br>INNOVATION FOUNDATION
                 </h1>
               </div>
             </Link>
@@ -193,7 +193,7 @@ export default function Layout({ children, currentPageName }) {
                                       className="relative w-12 h-12 object-contain"
                                     />
                                   </Link>
-                                  <h3 className="text-xl font-bold bg-gradient-to-r from-teal-300 via-emerald-200 to-cyan-300 bg-clip-text text-transparent">ENNOBLE SOCIAL</h3>
+                                  <h3 className="text-xl font-bold bg-gradient-to-r from-teal-300 via-emerald-200 to-cyan-300 bg-clip-text text-transparent">ENNOBLE SOCIAL <br></br>INNOVATION FOUNDATION</h3>
                                 </div>
                                 <p className="text-gray-400 text-sm leading-relaxed mb-6">
                                   We work to advance human rights, equality, and social justice through
